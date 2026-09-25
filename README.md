@@ -42,6 +42,10 @@ python nmea_decode.py serial:/dev/ttyUSB0@9600 --fix
 python nmea_decode.py udp:10110 --json
 ```
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ---
 
 by [magikh0e](https://magikh0e.pl) — also listed at

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """
 nmea_decode.py - NMEA 0183 sentence decoder (stdlib only; pyserial optional)
 by: magikh0e
