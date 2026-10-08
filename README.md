@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/logo-512.png" width="220" height="220"
+       alt="A hexagonal badge: a neon-green tiki mask on a radar compass
+            display ringed by GPS NMEA sentences and satellites, under the
+            words NMEA Decode.">
+</p>
+
 # nmea_decode
 
 `nmea_decode.py` — a single-file **NMEA 0183** sentence decoder. Standard
